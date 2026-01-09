@@ -1,0 +1,16 @@
+# binários
+/bin
+*.exe
+*.out
+
+# cache
+/go/pkg/mod
+/go.sum.tmp
+
+# arquivos locais
+.env
+.env.local
+
+# IDE
+.vscode
+.idea
